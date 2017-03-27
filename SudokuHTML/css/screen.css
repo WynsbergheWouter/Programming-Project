@@ -13,8 +13,14 @@ section {
     padding-top: 10vh;
 }
 main button {
+    width:20%;
+    margin-top:10px !important;
+    margin-left:40%;
+}
+
+@media screen and (max-width: 600px) {
+main button {
     width:40%;
     margin-top:10px !important;
     margin-left:30%;
-    
 }
