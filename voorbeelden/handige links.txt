@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=ka5jb_4ZBYs&ab_channel=BridgeCarlosApp
+A Recursive Sudoku Solution in 5 Computer Languages
+
+http://codereview.stackexchange.com/questions/46640/logical-sudoku-solver-in-java
+
+http://www.kernel-panic.it/software/sudokiller/sudokiller.java.html
+
+http://www.sudokubum.com/
+HTML5Javascript (partially based on latest ES.5)
+Spiced with some CSS3 (selectors, transitions, media queries, etc.)
+web-workers
+localStorage
+woff pre-formatted font
+
+http://www.webdeveloper.com/forum/showthread.php?273453-Sudoku-Javascript-HTML5
+
+http://www.c-sharpcorner.com/UploadFile/18ddf7/sudoku-in-html5/
+
+https://www.gurobi.com/documentation/7.0/examples/sudoku_java.html
+
