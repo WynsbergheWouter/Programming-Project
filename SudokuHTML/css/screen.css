@@ -30,10 +30,7 @@ main section button {
     width:40%;
     margin-left:0;
 }
-.pauzeer-button {
-    width:40%;
-    margin-left:18.5%;
-}
+
 .control-button {
     width:100%;
     margin-left:0;
@@ -49,10 +46,10 @@ main section button {
     width:45%;
     margin-left:0;
 }
-.pauzeer-button {
-    width:45%;
-    margin-left: 8.5%;
-} 
+
+}
+@media screen and (max-width: 1000px) {
+
 }
 @media screen and (max-width: 500px) {
     .sudokugame {
@@ -65,10 +62,7 @@ main section button {
     width:40%;
     margin-left:0;
 }
-.pauzeer-button {
-    width:40%;
-    margin-left:18.5%;
-}
+
 .control-button {
     width:100%;
     margin-left:0;
@@ -90,10 +84,7 @@ main section button {
     width:100%;
     margin-left:0;
 }
-.pauzeer-button {
-    width:100%;
-    margin-left:0%;
-}
+
 .control-button {
     width:100%;
     margin-left:0;
