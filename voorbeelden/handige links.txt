@@ -18,3 +18,13 @@ http://www.c-sharpcorner.com/UploadFile/18ddf7/sudoku-in-html5/
 
 https://www.gurobi.com/documentation/7.0/examples/sudoku_java.html
 
+sudoku solver python 
+https://www.dropbox.com/s/5ssvfh61yzvw2p3/Sudoku.txt?dl=0
+
+http://moriel.smarterthanthat.com/tips/javascript-sudoku-backtracking-algorithm/
+Designing a JavaScript Sudoku Puzzle
+
+http://stackoverflow.com/questions/6963922/java-sudoku-generatoreasiest-solution
+
+http://sudoku.becher-sundstroem.de/
+difficulty, help, timer, leaderboard
