@@ -20,11 +20,26 @@ main section button {
 .sudokugame {
     width:25%;
     margin:auto;
-       padding-top: 0vh !important;
+    margin-top: -120px !important;
 }
 .sudokugame img{
     width:100%;
 
+}
+.reset-button {
+    width:40%;
+    margin-left:0;
+}
+.pauzeer-button {
+    width:40%;
+    margin-left:18.5%;
+}
+.control-button {
+    width:100%;
+    margin-left:0;
+}
+.timer {
+    text-align: right;
 }
 @media screen and (max-width: 600px) {
 main section button {
