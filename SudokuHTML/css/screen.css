@@ -12,15 +12,24 @@ main {
 section {
     padding-top: 10vh;
 }
-main button {
+main section button {
     width:20%;
     margin-top:10px !important;
     margin-left:40%;
 }
+.sudokugame {
+    width:25%;
+    margin:auto;
+       padding-top: 0vh !important;
+}
+.sudokugame img{
+    width:100%;
 
+}
 @media screen and (max-width: 600px) {
-main button {
+main section button {
     width:40%;
     margin-top:10px !important;
     margin-left:30%;
+    }
 }
