@@ -40,7 +40,7 @@ main section button {
 }
 @media screen and (max-width:1250px) {
     .reset-button {
-    width:100%;   
+    width:45%;   
         
     }
     
@@ -49,5 +49,23 @@ main section button {
 @media screen and (max-width:1000px) {
     .sudokugame {
         width:30%;
+    }
+}
+@media screen and (max-width:800px) {
+    .sudokugame {
+        width:50%;
+    }
+        .reset-button {
+    width:50%;   
+        
+    }
+}
+@media screen and (max-width:500px) {
+    .sudokugame {
+        width:60%;
+    }
+        .reset-button {
+    width:100%;   
+        
     }
 }
