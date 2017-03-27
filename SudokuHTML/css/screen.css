@@ -38,56 +38,16 @@ main section button {
 .timer {
     text-align: right;
 }
-@media screen and (max-width: 1400px) {
-    html{
-        background-color: aqua;
+@media screen and (max-width:1250px) {
+    .reset-button {
+    width:100%;   
+        
     }
-   .reset-button {
-    width:45%;
-    margin-left:0;
+    
+        
 }
-
-}
-@media screen and (max-width: 1000px) {
-
-}
-@media screen and (max-width: 500px) {
+@media screen and (max-width:1000px) {
     .sudokugame {
-    width:80%;
-    margin:auto;
-    margin-top: -120px !important;
-}
-
-.reset-button {
-    width:40%;
-    margin-left:0;
-}
-
-.control-button {
-    width:100%;
-    margin-left:0;
-}
-}
-@media screen and (max-width: 400px) {
-main section button {
-    width:40%;
-    margin-top:10px !important;
-    margin-left:30%;
+        width:30%;
     }
-    .sudokugame {
-    width:80%;
-    margin:auto;
-    margin-top: -120px !important;
-}
-
-.reset-button {
-    width:100%;
-    margin-left:0;
-}
-
-.control-button {
-    width:100%;
-    margin-left:0;
-}
-
 }
