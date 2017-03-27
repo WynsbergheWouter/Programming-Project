@@ -1,1 +1,6 @@
-dhufhhk
+Craft sudoku: http://craft-sudoku.herokuapp.com/
+heeft: difficulty, hints, solve, clear, legende, MAAR DART
+
+sudoku :https://sudoku.js.org/#/?_k=8mvgk5
+heeft: mobile friendly, resume, difficulty,timer
+
